@@ -53,7 +53,7 @@ export default function Home() {
   return (
     <div className="h-screen w-screen flex items-center justify-center">
       <div
-        className="bg-white py-[10px] rounded-md border border-[#EEE] flex flex-col items-start justify-start gap-2 w-full md:w-2/4 mx-4 px-[15px]"
+        className="bg-white py-[10px] rounded-md border border-[#EEE] flex flex-col items-start justify-start gap-2 w-full lg:w-2/5 md:w-2/4 mx-4 px-[15px]"
         style={{
           boxShadow: "0px 8px 15px 0px #1414141F",
           // boxShadow: "0px 0px 4px 0px #1414141A",
